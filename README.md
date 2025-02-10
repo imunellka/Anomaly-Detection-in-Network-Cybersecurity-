@@ -13,4 +13,5 @@ Cyberattacks detection system in network traffic and system logs
 
   
 `METRICS`:
+
 <img width="502" alt="Screenshot 2025-02-10 at 15 30 32" src="https://github.com/user-attachments/assets/ffb853ff-cda7-4cba-b079-dbc5d48f8f2e" />
